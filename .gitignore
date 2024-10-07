@@ -1,5 +1,7 @@
-# ignore the input file
+# ignore the input and output files
 WORDS_INPUT.txt
+*.csv
+*.html
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
